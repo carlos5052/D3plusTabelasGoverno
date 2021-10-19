@@ -21,7 +21,7 @@
       "Quilograma_Líquido": 17217474
    },
    {
-      "﻿Código_NCM": "07032090",
+      "﻿Código_NCM": 7032090,
       "Descrição_NCM": "Alhos frescos ou refrigerados exceto para semeadura",
       "Países": "China",
       "Valor_FOB": 9428904,
@@ -161,7 +161,7 @@
       "Quilograma_Líquido": 727238
    },
    {
-      "﻿Código_NCM": "07129090",
+      "﻿Código_NCM": 7129090,
       "Descrição_NCM": "Outros produtos hortícolas; misturas de produtos hortícolas secos inclusive pedaços fatias etc",
       "Países": "China",
       "Valor_FOB": 1792203,
@@ -238,7 +238,7 @@
       "Quilograma_Líquido": 866250
    },
    {
-      "﻿Código_NCM": "07132090",
+      "﻿Código_NCM": 7132090,
       "Descrição_NCM": "Outros grãos-de-bico secos",
       "Países": "México",
       "Valor_FOB": 1300282,
@@ -259,7 +259,7 @@
       "Quilograma_Líquido": 9152
    },
    {
-      "﻿Código_NCM": "07115100",
+      "﻿Código_NCM": 7115100,
       "Descrição_NCM": "Cogumelos \"agaricus\" conservado água salgada etc.",
       "Países": "China",
       "Valor_FOB": 1229416,
@@ -644,7 +644,7 @@
       "Quilograma_Líquido": 41469
    },
    {
-      "﻿Código_NCM": "09042200",
+      "﻿Código_NCM": 9042200,
       "Descrição_NCM": "Pimentões e pimentas dos gêneros Capsicum ou Pimenta triturados ou em pó",
       "Países": "China",
       "Valor_FOB": 489010,
@@ -840,7 +840,7 @@
       "Quilograma_Líquido": 122206
    },
    {
-      "﻿Código_NCM": "09042100",
+      "﻿Código_NCM": 9042100,
       "Descrição_NCM": "Pimentões e pimentas dos gêneros Capsicum ou Pimenta secos não triturados nem em pó",
       "Países": "China",
       "Valor_FOB": 344726,
@@ -994,7 +994,7 @@
       "Quilograma_Líquido": 116760
    },
    {
-      "﻿Código_NCM": "03074310",
+      "﻿Código_NCM": 3074310,
       "Descrição_NCM": "Lulas congeladas",
       "Países": "China",
       "Valor_FOB": 280302,
@@ -1568,7 +1568,7 @@
       "Quilograma_Líquido": 11465
    },
    {
-      "﻿Código_NCM": "08134090",
+      "﻿Código_NCM": 8134090,
       "Descrição_NCM": "Outras frutas secas",
       "Países": "China",
       "Valor_FOB": 153271,
@@ -1659,7 +1659,7 @@
       "Quilograma_Líquido": 38763
    },
    {
-      "﻿Código_NCM": "03047500",
+      "﻿Código_NCM": 3047500,
       "Descrição_NCM": "Filé de merluza-do-alasca (Theragra chalcogramma) congelado",
       "Países": "China",
       "Valor_FOB": 142097,
@@ -1862,7 +1862,7 @@
       "Quilograma_Líquido": 124580
    },
    {
-      "﻿Código_NCM": "08023200",
+      "﻿Código_NCM": 8023200,
       "Descrição_NCM": "Nozes frescas ou secas sem casca",
       "Países": "China",
       "Valor_FOB": 117465,
@@ -2086,7 +2086,7 @@
       "Quilograma_Líquido": 104000
    },
    {
-      "﻿Código_NCM": "09096120",
+      "﻿Código_NCM": 9096120,
       "Descrição_NCM": "Sementes de badiana (anis-estrelado) não triturado nem em pó",
       "Países": "China",
       "Valor_FOB": 100465,
@@ -2107,7 +2107,7 @@
       "Quilograma_Líquido": 10584
    },
    {
-      "﻿Código_NCM": "03053290",
+      "﻿Código_NCM": 3053290,
       "Descrição_NCM": "Outros filés de peixes secos salgados/salmoura não defumado",
       "Países": "China",
       "Valor_FOB": 97845,
@@ -2429,7 +2429,7 @@
       "Quilograma_Líquido": 48106
    },
    {
-      "﻿Código_NCM": "09081100",
+      "﻿Código_NCM": 9081100,
       "Descrição_NCM": "Noz-moscada não triturada nem em pó",
       "Países": "Índia",
       "Valor_FOB": 76426,
@@ -2534,14 +2534,14 @@
       "Quilograma_Líquido": 137975
    },
    {
-      "﻿Código_NCM": "07123900",
+      "﻿Código_NCM": 7123900,
       "Descrição_NCM": "Outros cogumelos e trufas secos mesmo cortados etc.",
       "Países": "China",
       "Valor_FOB": 70388,
       "Quilograma_Líquido": 12325
    },
    {
-      "﻿Código_NCM": "03038114",
+      "﻿Código_NCM": 3038114,
       "Descrição_NCM": "Tuabarão-azul em pedaços sem pele congelado",
       "Países": "China",
       "Valor_FOB": 70385,
@@ -2639,14 +2639,14 @@
       "Quilograma_Líquido": 16144
    },
    {
-      "﻿Código_NCM": "03047900",
+      "﻿Código_NCM": 3047900,
       "Descrição_NCM": "Outros filés de peixes congelados",
       "Países": "China",
       "Valor_FOB": 66686,
       "Quilograma_Líquido": 21120
    },
    {
-      "﻿Código_NCM": "09093100",
+      "﻿Código_NCM": 9093100,
       "Descrição_NCM": "Sementes de cominho não trituradas nem em pó",
       "Países": "Índia",
       "Valor_FOB": 65531,
@@ -2681,7 +2681,7 @@
       "Quilograma_Líquido": 4555
    },
    {
-      "﻿Código_NCM": "03047400",
+      "﻿Código_NCM": 3047400,
       "Descrição_NCM": "Filés de merluzas e abroteas congelados",
       "Países": "China",
       "Valor_FOB": 64749,
@@ -3227,7 +3227,7 @@
       "Quilograma_Líquido": 3411
    },
    {
-      "﻿Código_NCM": "09103000",
+      "﻿Código_NCM": 9103000,
       "Descrição_NCM": "Açafrão-da-terra (curcuma)",
       "Países": "Índia",
       "Valor_FOB": 45777,
@@ -3260,13 +3260,6 @@
       "Países": "China",
       "Valor_FOB": 44650,
       "Quilograma_Líquido": 7000
-   },
-   {
-      "﻿Código_NCM": "08121000",
-      "Descrição_NCM": "Cerejas conservadas transitoriamente (por exemplo com gás sulfuroso ou água salgada sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação) mas impróprias para alimentação nesse estado",
-      "Países": "Chile",
-      "Valor_FOB": 44519,
-      "Quilograma_Líquido": 27040
    },
    {
       "﻿Código_NCM": 81089000,
@@ -3381,7 +3374,7 @@
       "Quilograma_Líquido": 18947
    },
    {
-      "﻿Código_NCM": "08062000",
+      "﻿Código_NCM": 8062000,
       "Descrição_NCM": "Uvas secas (passas)",
       "Países": "África do Sul",
       "Valor_FOB": 41198,
@@ -3486,7 +3479,7 @@
       "Quilograma_Líquido": 48971
    },
    {
-      "﻿Código_NCM": "09062000",
+      "﻿Código_NCM": 9062000,
       "Descrição_NCM": "Canela e flores de caneleira trituradas ou em pó",
       "Países": "China",
       "Valor_FOB": 37422,
@@ -3507,7 +3500,7 @@
       "Quilograma_Líquido": 1591
    },
    {
-      "﻿Código_NCM": "09096190",
+      "﻿Código_NCM": 9096190,
       "Descrição_NCM": "Outras sementes não trituradas nem em pó",
       "Países": "Índia",
       "Valor_FOB": 37120,
@@ -3864,7 +3857,7 @@
       "Quilograma_Líquido": 12530
    },
    {
-      "﻿Código_NCM": "08062000",
+      "﻿Código_NCM": 8062000,
       "Descrição_NCM": "Uvas secas (passas)",
       "Países": "Índia",
       "Valor_FOB": 28756,
@@ -4011,7 +4004,7 @@
       "Quilograma_Líquido": 7800
    },
    {
-      "﻿Código_NCM": "07129010",
+      "﻿Código_NCM": 7129010,
       "Descrição_NCM": "Alho comum em pó sem qualquer outro preparo",
       "Países": "China",
       "Valor_FOB": 25794,
@@ -4200,7 +4193,7 @@
       "Quilograma_Líquido": 13601
    },
    {
-      "﻿Código_NCM": "09081200",
+      "﻿Código_NCM": 9081200,
       "Descrição_NCM": "Noz-moscada triturada ou em pó",
       "Países": "Índia",
       "Valor_FOB": 23419,
@@ -4263,7 +4256,7 @@
       "Quilograma_Líquido": 16482
    },
    {
-      "﻿Código_NCM": "09083100",
+      "﻿Código_NCM": 9083100,
       "Descrição_NCM": "Amomos e cardamomos não triturado nem em pó",
       "Países": "Índia",
       "Valor_FOB": 22646,
@@ -4921,7 +4914,7 @@
       "Quilograma_Líquido": 11526
    },
    {
-      "﻿Código_NCM": "05040012",
+      "﻿Código_NCM": 5040012,
       "Descrição_NCM": "Tripas de ovinos frescos refrigerados congelados salgados ou em salmoura secos ou defumados",
       "Países": "China",
       "Valor_FOB": 14610,
@@ -5131,7 +5124,7 @@
       "Quilograma_Líquido": 4600
    },
    {
-      "﻿Código_NCM": "09109900",
+      "﻿Código_NCM": 9109900,
       "Descrição_NCM": "Outras especiarias",
       "Países": "Índia",
       "Valor_FOB": 12423,
@@ -5341,7 +5334,7 @@
       "Quilograma_Líquido": 2473
    },
    {
-      "﻿Código_NCM": "09022000",
+      "﻿Código_NCM": 9022000,
       "Descrição_NCM": "Chá verde (não fermentado) apresentado de qualquer outra forma",
       "Países": "China",
       "Valor_FOB": 10257,
@@ -5530,7 +5523,7 @@
       "Quilograma_Líquido": 816
    },
    {
-      "﻿Código_NCM": "09061100",
+      "﻿Código_NCM": 9061100,
       "Descrição_NCM": "Canela (Cinnamomum zeylanicum blume) e flores de caneleira não trituradas nem em pó",
       "Países": "China",
       "Valor_FOB": 8962,
@@ -5901,7 +5894,7 @@
       "Quilograma_Líquido": 2469
    },
    {
-      "﻿Código_NCM": "07039090",
+      "﻿Código_NCM": 7039090,
       "Descrição_NCM": "Alhos-porros e outros produtos hortícolas aliáceos frescos ou refrigerados exceto para semeadura",
       "Países": "China",
       "Valor_FOB": 6864,
@@ -6965,7 +6958,7 @@
       "Quilograma_Líquido": 100
    },
    {
-      "﻿Código_NCM": "07129010",
+      "﻿Código_NCM": 7129010,
       "Descrição_NCM": "Alho comum em pó sem qualquer outro preparo",
       "Países": "Índia",
       "Valor_FOB": 3001,
@@ -6977,13 +6970,6 @@
       "Países": "Índia",
       "Valor_FOB": 3000,
       "Quilograma_Líquido": 1
-   },
-   {
-      "﻿Código_NCM": 84834090,
-      "Descrição_NCM": "Engrenagens e rodas de fricção eixos de esferas/roletes",
-      "Países": "Itália",
-      "Valor_FOB": 2979,
-      "Quilograma_Líquido": 70
    },
    {
       "﻿Código_NCM": 85359000,
@@ -7196,7 +7182,7 @@
       "Quilograma_Líquido": 954
    },
    {
-      "﻿Código_NCM": "09041200",
+      "﻿Código_NCM": 9041200,
       "Descrição_NCM": "Pimenta (do gênero Piper) triturada ou em pó",
       "Países": "China",
       "Valor_FOB": 2381,
@@ -7427,7 +7413,7 @@
       "Quilograma_Líquido": 956
    },
    {
-      "﻿Código_NCM": "07102900",
+      "﻿Código_NCM": 7102900,
       "Descrição_NCM": "Outros legumes de vagem não cozidos ou cozidos em água ou vapor congelados",
       "Países": "China",
       "Valor_FOB": 1931,
@@ -8386,13 +8372,6 @@
       "Quilograma_Líquido": 105
    },
    {
-      "﻿Código_NCM": 84669319,
-      "Descrição_NCM": "Partes e acessórios de máquinas-ferramentas operadas por \"laser\" etc.",
-      "Países": "Itália",
-      "Valor_FOB": 709,
-      "Quilograma_Líquido": "0"
-   },
-   {
       "﻿Código_NCM": 58081000,
       "Descrição_NCM": "Tranças em peças",
       "Países": "China",
@@ -8526,14 +8505,14 @@
       "Quilograma_Líquido": 173
    },
    {
-      "﻿Código_NCM": "08132020",
+      "﻿Código_NCM": 8132020,
       "Descrição_NCM": "Ameixas secas sem caroço",
       "Países": "China",
       "Valor_FOB": 640,
       "Quilograma_Líquido": 478
    },
    {
-      "﻿Código_NCM": "09093200",
+      "﻿Código_NCM": 9093200,
       "Descrição_NCM": "Sementes de cominho trituradas ou em pó",
       "Países": "China",
       "Valor_FOB": 640,
@@ -9240,7 +9219,7 @@
       "Quilograma_Líquido": 20
    },
    {
-      "﻿Código_NCM": "08135000",
+      "﻿Código_NCM": 8135000,
       "Descrição_NCM": "Misturas de frutas secas ou de frutas de casca rija do presente Capítulo",
       "Países": "China",
       "Valor_FOB": 138,
@@ -9254,7 +9233,7 @@
       "Quilograma_Líquido": 54
    },
    {
-      "﻿Código_NCM": "07123300",
+      "﻿Código_NCM": 7123300,
       "Descrição_NCM": "Tremelas (Tremella spp.) secos mesmo cortados etc.",
       "Países": "China",
       "Valor_FOB": 131,
@@ -9324,7 +9303,7 @@
       "Quilograma_Líquido": "0"
    },
    {
-      "﻿Código_NCM": "09041100",
+      "﻿Código_NCM": 9041100,
       "Descrição_NCM": "Pimenta (do gênero Piper) não triturada nem em pó",
       "Países": "China",
       "Valor_FOB": 118,
@@ -9457,7 +9436,7 @@
       "Quilograma_Líquido": 1
    },
    {
-      "﻿Código_NCM": "08062000",
+      "﻿Código_NCM": 8062000,
       "Descrição_NCM": "Uvas secas (passas)",
       "Países": "China",
       "Valor_FOB": 76,
@@ -9525,13 +9504,6 @@
       "Países": "China",
       "Valor_FOB": 64,
       "Quilograma_Líquido": 2
-   },
-   {
-      "﻿Código_NCM": 85322590,
-      "Descrição_NCM": "Outros condensadores fixos com dielétrico de papel ou de plásticos",
-      "Países": "Brasil",
-      "Valor_FOB": 64,
-      "Quilograma_Líquido": "0"
    },
    {
       "﻿Código_NCM": 84122110,
@@ -9910,9 +9882,5 @@
       "Países": "China",
       "Valor_FOB": 1,
       "Quilograma_Líquido": 1
-   },
-   {},
-   {
-      "Descrição_NCM": "Fonte: COMEX STAT"
    }
 ]
